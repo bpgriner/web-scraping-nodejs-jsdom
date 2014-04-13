@@ -1,0 +1,9 @@
+{
+  "name": "web-scraping-nodejs-jsdom",
+  "description": "web scraping test app with node and jsdom",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "jsdom": "0.10.5"
+  }
+}
